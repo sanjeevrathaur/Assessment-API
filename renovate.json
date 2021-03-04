@@ -1,5 +1,8 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "assignees": ["sanjeevrathaur"],
+  "prHourlyLimit": 1,
+  "baseBranches": "develop"
 }
